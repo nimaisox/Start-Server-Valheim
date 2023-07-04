@@ -21,3 +21,11 @@ bash StartServer.sh
 windows
 
 click bat StartServer.bat
+
+NOTE Change World Name And Password
+
+save world
+
+linux : $HOME/.config/unity3d/IronGate/Valheim/worlds
+
+windows : %userprofile%/AppData/LocalLow/IronGate/Valheim/Worlds
